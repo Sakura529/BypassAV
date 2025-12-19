@@ -1,5 +1,10 @@
 # BypassAV
 通过Patch白文件实现Bypass,没有添加其他免杀手法，失效可能比较快。可以自行根据shellcode模板创建新版本。
+
+## 版本升级
+0.2 修改资源，bypass 360qvm
+0.1
+
 ## 使用方法
 
 使用donut将后渗透工具转换为shellcode，再使用sgn进行加密，命名为work.bin即可。
