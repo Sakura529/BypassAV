@@ -2,6 +2,8 @@
 通过Patch白文件实现Bypass,没有添加其他免杀手法，失效可能比较快。可以自行根据shellcode模板创建新版本。
 
 ## 版本升级
+0.3 添加syscall，更换白程序，修改patch方法，替换调用链，实现VT全绿
+
 0.2 修改资源，bypass 360qvm
 
 0.1
@@ -26,6 +28,9 @@ defender：
 
 卡巴斯基：
 <img width="1247" height="779" alt="屏幕截图 2025-12-17 093919" src="https://github.com/user-attachments/assets/c40a05a0-082d-45a2-97b9-54d742a3217f" />
+
+VT扫描：
+<img width="2022" height="1266" alt="image" src="https://github.com/user-attachments/assets/a3d76a35-003d-44fe-8ab9-4d055638c6dd" />
 
 
 参考链接：
