@@ -2,6 +2,7 @@
 通过Patch白文件实现Bypass,没有添加其他免杀手法，失效可能比较快。可以自行根据shellcode模板创建新版本。
 
 ## 版本升级
+0.3版本存在问题，暂时删除
 ~0.3 添加syscall，更换白程序，修改patch方法，替换调用链，实现VT全绿~
 
 0.2 修改资源，bypass 360qvm
@@ -10,8 +11,11 @@
 
 ## 使用方法
 
-使用donut将后渗透工具转换为shellcode，再使用sgn进行加密，命名为work.bin即可。
-原始exe不能经过加密、加壳，如fscan的发行版，无法转换成shellcode使用。
+使用donut工具通过命令 donut.exe -i mimikatz.exe -o 123.bin 将后渗透工具转换为shellcode，再使用sgn工具通过命令 sgn.exe -i 123.bin -o work.bin 进行加密，命名为work.bin即可。
+
+然后将work.bin与release中的二进制程序放在同一目录中，运行二进制程序即可。
+
+原始exe不能经过加密、加壳，如fscan的release版本，无法转换成shellcode使用。
 
 本工具仅限用于合法的渗透测试，请勿用于违法行为，因本工具造成的任何损失由使用者自行承担。
 
