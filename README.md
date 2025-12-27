@@ -2,7 +2,7 @@
 通过Patch白文件实现Bypass,没有添加其他免杀手法，失效可能比较快。可以自行根据shellcode模板创建新版本。
 
 ## 版本升级
-0.3 添加syscall，更换白程序，修改patch方法，替换调用链，实现VT全绿
+~0.3 添加syscall，更换白程序，修改patch方法，替换调用链，实现VT全绿~
 
 0.2 修改资源，bypass 360qvm
 
