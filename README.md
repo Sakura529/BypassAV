@@ -12,7 +12,9 @@
 
 ## 使用方法
 
-使用donut工具通过命令 donut.exe -i mimikatz.exe -o 123.bin 将后渗透工具转换为shellcode，再使用sgn工具通过命令 sgn.exe -i 123.bin -o work.bin 进行加密，命名为work.bin即可。
+使用donut工具通过命令 donut.exe -i mimikatz.exe -o 123.bin 将后渗透工具转换为shellcode，
+
+再使用sgn工具通过命令 sgn.exe -i 123.bin -o work.bin 进行加密，命名为work.bin即可。
 
 然后将work.bin与release中的二进制程序放在同一目录中，运行二进制程序即可。
 
