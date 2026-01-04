@@ -3,6 +3,8 @@ Implementing bypass through patching legitimate files, without adding other evas
 
 If you find my project useful, please leave a star. It will motivate me to update more frequently.
 
+[ [中文](https://github.com/Sakura529/BypassAV/edit/main/README_CH.md) | [English](https://github.com/Sakura529/BypassAV/edit/main/README.md) ]
+
 ## Version Updates
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
