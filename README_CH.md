@@ -1,7 +1,9 @@
 # BypassAV
 通过Patch白文件实现Bypass,没有添加其他免杀手法，失效可能比较快。可以自行根据shellcode模板创建新版本。
 
-如果觉得我的项目不错，不如留下一个stars，我会更有动力更新，
+如果觉得我的项目不错，不如留下一个stars，我会更有动力更新。
+
+[ [中文](https://github.com/Sakura529/BypassAV/blob/main/README_CH.md) | [English](https://github.com/Sakura529/BypassAV/blob/main/README.md) ]
 
 ## 版本升级
 
