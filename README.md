@@ -1,7 +1,7 @@
 # BypassAV
 Implementing bypass through patching legitimate files, without adding other evasion techniques. May become ineffective relatively quickly. You can create new versions based on the shellcode template.
 
-If you find my project useful, please leave a star. It will motivate me to update more frequently.
+If you find my project useful, please leave a stars. It will motivate me to update more frequently.
 
 [ [中文](https://github.com/Sakura529/BypassAV/blob/main/README_CH.md) | [English](https://github.com/Sakura529/BypassAV/blob/main/README.md) ]
 
