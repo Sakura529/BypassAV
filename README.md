@@ -9,7 +9,7 @@ If you find my project useful, please leave a stars. It will motivate me to upda
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-**2026.1.8**   0.4 Use syscalls and remove unnecessary environment dependencies to optimize the user experience.
+**2026.1.8**   0.4 remove unnecessary environment dependencies to optimize the user experience.
 
 **2025.12.30** 0.3 Changed the legitimate program, modified patch method, replaced call chain, achieved full green on VT
 
