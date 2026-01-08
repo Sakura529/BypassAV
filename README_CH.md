@@ -9,9 +9,7 @@
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-~0.3版本存在问题，暂时删除~
-
-重新发布
+0.4 使用syscall，并且移除不必要的环境依赖，优化使用体验
 
 0.3 更换白程序，修改patch方法，替换调用链，实现VT全绿
 
