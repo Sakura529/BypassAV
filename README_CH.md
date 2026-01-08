@@ -9,6 +9,8 @@
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
+**原0.4版本出现了问题，我重新发布了新版**
+
 **2026.1.8** 0.4 移除不必要的环境依赖，优化使用体验
 
 **2025.12.30** 0.3 更换白程序，修改patch方法，替换调用链，实现VT全绿
