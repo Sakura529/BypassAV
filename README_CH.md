@@ -9,13 +9,13 @@
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-0.4 使用syscall，并且移除不必要的环境依赖，优化使用体验
+**2026.1.8** 0.4 使用syscall，并且移除不必要的环境依赖，优化使用体验
 
-0.3 更换白程序，修改patch方法，替换调用链，实现VT全绿
+**2025.12.30** 0.3 更换白程序，修改patch方法，替换调用链，实现VT全绿
 
-0.2 修改资源，bypass 360qvm
+**2025.12.26** 0.2 修改资源，bypass 360qvm
 
-0.1
+**2025.12.24** 0.1
 
 ## 使用方法
 
