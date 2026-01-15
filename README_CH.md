@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-**原0.4版本出现了问题，我重新发布了新版**
+**2026.1.15** 0.5 未添加任何资源，如有需要，自行修改
 
 **2026.1.8** 0.4 移除不必要的环境依赖，优化使用体验
 
