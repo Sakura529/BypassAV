@@ -9,7 +9,7 @@ If you find my project useful, please leave a stars. It will motivate me to upda
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-**Since there were problems in the 0.4 version, I've released a fixed version.**
+**2026.1.15** 0.5 No resources have been added. Feel free to modify it yourself if needed.
 
 **2026.1.8**   0.4 remove unnecessary environment dependencies to optimize the user experience.
 
