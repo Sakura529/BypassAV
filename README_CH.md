@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
-**2026.2.2** 0.6 重新发布，vt扫描全绿
+**2026.2.2** 0.6 重新发布，vt扫描全绿。没有测试360，如果无法通过QVM，请使用0.5版本
 
 **2026.1.15** 0.5 未添加任何资源，如有需要，自行修改
 
