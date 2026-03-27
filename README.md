@@ -9,6 +9,8 @@ If you find my project useful, please leave a stars. It will motivate me to upda
 
 <img src="https://img.shields.io/github/downloads/Sakura529/BypassAV/total?style=flat" alt="GitHub Downloads (all assets, all releases)"/>
 
+**2026.3.27** 0.8 Bypassed some features.
+
 **2026.3.25** 0.7 re-released
 
 **2026.2.2** 0.6 re-released, VT scan all green
